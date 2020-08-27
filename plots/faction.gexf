@@ -1,0 +1,2311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.2draft" version="1.2" xmlns:viz="http://www.gexf.net/1.2draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2016-01-06">
+    <creator>Gephi 0.8.1</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="d2" title="most_common_type" type="string"></attribute>
+      <attribute id="d1" title="name" type="string"></attribute>
+      <attribute id="d0" title="count" type="integer"></attribute>
+    </attributes>
+    <attributes class="edge" mode="static">
+      <attribute id="d3" title="count" type="integer"></attribute>
+    </attributes>
+    <nodes>
+      <node id="Royal House Of Naboo" label="Royal House Of Naboo">
+        <attvalues>
+          <attvalue for="d2" value="Bureaucrat"></attvalue>
+          <attvalue for="d1" value="Royal House Of Naboo"></attvalue>
+          <attvalue for="d0" value="36"></attvalue>
+        </attvalues>
+        <viz:size value="10.272109"></viz:size>
+        <viz:position x="352.05634" y="890.8384" z="0.0"></viz:position>
+        <viz:color r="91" g="0" b="194"></viz:color>
+      </node>
+      <node id="Confederacy Of Independent Systems" label="Confederacy Of Independent Systems">
+        <attvalues>
+          <attvalue for="d2" value="Cis"></attvalue>
+          <attvalue for="d1" value="Confederacy Of Independent Systems"></attvalue>
+          <attvalue for="d0" value="228"></attvalue>
+        </attvalues>
+        <viz:size value="14.625851"></viz:size>
+        <viz:position x="333.71918" y="1472.6465" z="0.0"></viz:position>
+        <viz:color r="149" g="0" b="240"></viz:color>
+      </node>
+      <node id="Galactic Empire" label="Galactic Empire">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Empire"></attvalue>
+          <attvalue for="d1" value="Galactic Empire"></attvalue>
+          <attvalue for="d0" value="1302"></attvalue>
+        </attvalues>
+        <viz:size value="38.97959"></viz:size>
+        <viz:position x="-1077.1971" y="1471.055" z="0.0"></viz:position>
+        <viz:color r="223" g="0" b="79"></viz:color>
+      </node>
+      <node id="Thaereian Military" label="Thaereian Military">
+        <attvalues>
+          <attvalue for="d2" value="Bounty Hunter"></attvalue>
+          <attvalue for="d1" value="Thaereian Military"></attvalue>
+          <attvalue for="d0" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="10.0680275"></viz:size>
+        <viz:position x="931.2214" y="679.8045" z="0.0"></viz:position>
+        <viz:color r="223" g="158" b="0"></viz:color>
+      </node>
+      <node id="Galactic Senate" label="Galactic Senate">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Republic"></attvalue>
+          <attvalue for="d1" value="Galactic Senate"></attvalue>
+          <attvalue for="d0" value="110"></attvalue>
+        </attvalues>
+        <viz:size value="11.950113"></viz:size>
+        <viz:position x="1052.7058" y="841.9742" z="0.0"></viz:position>
+        <viz:color r="0" g="105" b="223"></viz:color>
+      </node>
+      <node id="Republic Navy" label="Republic Navy">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Republic"></attvalue>
+          <attvalue for="d1" value="Republic Navy"></attvalue>
+          <attvalue for="d0" value="86"></attvalue>
+        </attvalues>
+        <viz:size value="11.405895"></viz:size>
+        <viz:position x="1335.5289" y="14.310611" z="0.0"></viz:position>
+        <viz:color r="0" g="105" b="223"></viz:color>
+      </node>
+      <node id="Imperial Military" label="Imperial Military">
+        <attvalues>
+          <attvalue for="d2" value="Sith Empire"></attvalue>
+          <attvalue for="d1" value="Imperial Military"></attvalue>
+          <attvalue for="d0" value="32"></attvalue>
+        </attvalues>
+        <viz:size value="10.181406"></viz:size>
+        <viz:position x="1055.2755" y="-327.7918" z="0.0"></viz:position>
+        <viz:color r="255" g="46" b="26"></viz:color>
+      </node>
+      <node id="Royal Naboo Security Forces" label="Royal Naboo Security Forces">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Republic"></attvalue>
+          <attvalue for="d1" value="Royal Naboo Security Forces"></attvalue>
+          <attvalue for="d0" value="30"></attvalue>
+        </attvalues>
+        <viz:size value="10.136054"></viz:size>
+        <viz:position x="-60.489372" y="1220.5364" z="0.0"></viz:position>
+        <viz:color r="0" g="105" b="223"></viz:color>
+      </node>
+      <node id="Trade Federation" label="Trade Federation">
+        <attvalues>
+          <attvalue for="d2" value="Corporate"></attvalue>
+          <attvalue for="d1" value="Trade Federation"></attvalue>
+          <attvalue for="d0" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="10.0680275"></viz:size>
+        <viz:position x="101.65178" y="1028.3182" z="0.0"></viz:position>
+        <viz:color r="223" g="79" b="0"></viz:color>
+      </node>
+      <node id="Imperial Remnant" label="Imperial Remnant">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Empire"></attvalue>
+          <attvalue for="d1" value="Imperial Remnant"></attvalue>
+          <attvalue for="d0" value="50"></attvalue>
+        </attvalues>
+        <viz:size value="10.589569"></viz:size>
+        <viz:position x="-688.6377" y="-624.6575" z="0.0"></viz:position>
+        <viz:color r="223" g="0" b="79"></viz:color>
+      </node>
+      <node id="Galactic Federation Of Free Alliances" label="Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d2" value="Gffa"></attvalue>
+          <attvalue for="d1" value="Galactic Federation Of Free Alliances"></attvalue>
+          <attvalue for="d0" value="97"></attvalue>
+        </attvalues>
+        <viz:size value="11.655329"></viz:size>
+        <viz:position x="-947.10645" y="-981.3578" z="0.0"></viz:position>
+        <viz:color r="210" g="0" b="223"></viz:color>
+      </node>
+      <node id="Exchange" label="Exchange">
+        <attvalues>
+          <attvalue for="d2" value="Criminal"></attvalue>
+          <attvalue for="d1" value="Exchange"></attvalue>
+          <attvalue for="d0" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="933.22095" y="-138.67168" z="0.0"></viz:position>
+        <viz:color r="224" g="215" b="0"></viz:color>
+      </node>
+      <node id="Bright Tree Village" label="Bright Tree Village">
+        <attvalues>
+          <attvalue for="d2" value="Rebel"></attvalue>
+          <attvalue for="d1" value="Bright Tree Village"></attvalue>
+          <attvalue for="d0" value="52"></attvalue>
+        </attvalues>
+        <viz:size value="10.63492"></viz:size>
+        <viz:position x="-486.73956" y="118.80398" z="0.0"></viz:position>
+        <viz:color r="61" g="255" b="249"></viz:color>
+      </node>
+      <node id="Lost Tribe Of Sith" label="Lost Tribe Of Sith">
+        <attvalues>
+          <attvalue for="d2" value="Sith"></attvalue>
+          <attvalue for="d1" value="Lost Tribe Of Sith"></attvalue>
+          <attvalue for="d0" value="77"></attvalue>
+        </attvalues>
+        <viz:size value="11.201814"></viz:size>
+        <viz:position x="95.1221" y="-995.61334" z="0.0"></viz:position>
+        <viz:color r="235" g="21" b="0"></viz:color>
+      </node>
+      <node id="Jabba Desilijic Tiure" label="Jabba Desilijic Tiure">
+        <attvalues>
+          <attvalue for="d2" value="Criminal"></attvalue>
+          <attvalue for="d1" value="Jabba Desilijic Tiure"></attvalue>
+          <attvalue for="d0" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="10.0680275"></viz:size>
+        <viz:position x="-404.57706" y="454.97632" z="0.0"></viz:position>
+        <viz:color r="224" g="215" b="0"></viz:color>
+      </node>
+      <node id="Imperial Security Bureau" label="Imperial Security Bureau">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Empire"></attvalue>
+          <attvalue for="d1" value="Imperial Security Bureau"></attvalue>
+          <attvalue for="d0" value="43"></attvalue>
+        </attvalues>
+        <viz:size value="10.430839"></viz:size>
+        <viz:position x="-266.8221" y="-23.662022" z="0.0"></viz:position>
+        <viz:color r="223" g="0" b="79"></viz:color>
+      </node>
+      <node id="Jedi Order" label="Jedi Order">
+        <attvalues>
+          <attvalue for="d2" value="Jedi"></attvalue>
+          <attvalue for="d1" value="Jedi Order"></attvalue>
+          <attvalue for="d0" value="367"></attvalue>
+        </attvalues>
+        <viz:size value="17.777779"></viz:size>
+        <viz:position x="1081.5581" y="230.11737" z="0.0"></viz:position>
+        <viz:color r="53" g="0" b="223"></viz:color>
+      </node>
+      <node id="Grand Army Of The Republic" label="Grand Army Of The Republic">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Republic"></attvalue>
+          <attvalue for="d1" value="Grand Army Of The Republic"></attvalue>
+          <attvalue for="d0" value="189"></attvalue>
+        </attvalues>
+        <viz:size value="13.741497"></viz:size>
+        <viz:position x="673.5575" y="637.8303" z="0.0"></viz:position>
+        <viz:color r="0" g="105" b="223"></viz:color>
+      </node>
+      <node id="Jabba Desilijic Tiure'S Criminal Empire" label="Jabba Desilijic Tiure'S Criminal Empire">
+        <attvalues>
+          <attvalue for="d2" value="Criminal"></attvalue>
+          <attvalue for="d1" value="Jabba Desilijic Tiure'S Criminal Empire"></attvalue>
+          <attvalue for="d0" value="130"></attvalue>
+        </attvalues>
+        <viz:size value="12.403628"></viz:size>
+        <viz:position x="-617.95294" y="683.04956" z="0.0"></viz:position>
+        <viz:color r="224" g="215" b="0"></viz:color>
+      </node>
+      <node id="Sith Empire" label="Sith Empire">
+        <attvalues>
+          <attvalue for="d2" value="Sith"></attvalue>
+          <attvalue for="d1" value="Sith Empire"></attvalue>
+          <attvalue for="d0" value="500"></attvalue>
+        </attvalues>
+        <viz:size value="20.793652"></viz:size>
+        <viz:position x="961.6099" y="-834.6099" z="0.0"></viz:position>
+        <viz:color r="235" g="21" b="0"></viz:color>
+      </node>
+      <node id="Pilgrims" label="Pilgrims">
+        <attvalues>
+          <attvalue for="d2" value="Bureaucrat"></attvalue>
+          <attvalue for="d1" value="Pilgrims"></attvalue>
+          <attvalue for="d0" value="24"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="612.40753" y="84.501396" z="0.0"></viz:position>
+        <viz:color r="91" g="0" b="194"></viz:color>
+      </node>
+      <node id="Republic Army" label="Republic Army">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Republic"></attvalue>
+          <attvalue for="d1" value="Republic Army"></attvalue>
+          <attvalue for="d0" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="10.0680275"></viz:size>
+        <viz:position x="686.94275" y="-534.9968" z="0.0"></viz:position>
+        <viz:color r="0" g="105" b="223"></viz:color>
+      </node>
+      <node id="Alliance Intelligence" label="Alliance Intelligence">
+        <attvalues>
+          <attvalue for="d2" value="Rebel"></attvalue>
+          <attvalue for="d1" value="Alliance Intelligence"></attvalue>
+          <attvalue for="d0" value="33"></attvalue>
+        </attvalues>
+        <viz:size value="10.204082"></viz:size>
+        <viz:position x="-737.3075" y="127.3971" z="0.0"></viz:position>
+        <viz:color r="61" g="255" b="249"></viz:color>
+      </node>
+      <node id="Black Sun" label="Black Sun">
+        <attvalues>
+          <attvalue for="d2" value="Criminal"></attvalue>
+          <attvalue for="d1" value="Black Sun"></attvalue>
+          <attvalue for="d0" value="118"></attvalue>
+        </attvalues>
+        <viz:size value="12.131519"></viz:size>
+        <viz:position x="-268.56058" y="954.0613" z="0.0"></viz:position>
+        <viz:color r="224" g="215" b="0"></viz:color>
+      </node>
+      <node id="Imperial Intelligence" label="Imperial Intelligence">
+        <attvalues>
+          <attvalue for="d2" value="Sith Empire"></attvalue>
+          <attvalue for="d1" value="Imperial Intelligence"></attvalue>
+          <attvalue for="d0" value="39"></attvalue>
+        </attvalues>
+        <viz:size value="10.340136"></viz:size>
+        <viz:position x="979.91516" y="-239.47174" z="0.0"></viz:position>
+        <viz:color r="255" g="46" b="26"></viz:color>
+      </node>
+      <node id="Czerka Corporation" label="Czerka Corporation">
+        <attvalues>
+          <attvalue for="d2" value="Corporate"></attvalue>
+          <attvalue for="d1" value="Czerka Corporation"></attvalue>
+          <attvalue for="d0" value="30"></attvalue>
+        </attvalues>
+        <viz:size value="10.136054"></viz:size>
+        <viz:position x="693.8205" y="-38.559788" z="0.0"></viz:position>
+        <viz:color r="223" g="79" b="0"></viz:color>
+      </node>
+      <node id="Imperial Army" label="Imperial Army">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Empire"></attvalue>
+          <attvalue for="d1" value="Imperial Army"></attvalue>
+          <attvalue for="d0" value="106"></attvalue>
+        </attvalues>
+        <viz:size value="11.85941"></viz:size>
+        <viz:position x="919.2942" y="-420.20865" z="0.0"></viz:position>
+        <viz:color r="223" g="0" b="79"></viz:color>
+      </node>
+      <node id="Yuuzhan Vong Empire  Warrior Caste" label="Yuuzhan Vong Empire  Warrior Caste">
+        <attvalues>
+          <attvalue for="d2" value="Yuuzhan Vong"></attvalue>
+          <attvalue for="d1" value="Yuuzhan Vong Empire  Warrior Caste"></attvalue>
+          <attvalue for="d0" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="10.0680275"></viz:size>
+        <viz:position x="-479.6814" y="-849.39923" z="0.0"></viz:position>
+        <viz:color r="163" g="54" b="0"></viz:color>
+      </node>
+      <node id="Imperial Senate" label="Imperial Senate">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Empire"></attvalue>
+          <attvalue for="d1" value="Imperial Senate"></attvalue>
+          <attvalue for="d0" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="10.0680275"></viz:size>
+        <viz:position x="471.79837" y="1067.0308" z="0.0"></viz:position>
+        <viz:color r="223" g="0" b="79"></viz:color>
+      </node>
+      <node id="Mandalorians" label="Mandalorians">
+        <attvalues>
+          <attvalue for="d2" value="Mandalorian"></attvalue>
+          <attvalue for="d1" value="Mandalorians"></attvalue>
+          <attvalue for="d0" value="64"></attvalue>
+        </attvalues>
+        <viz:size value="10.907029"></viz:size>
+        <viz:position x="-69.70115" y="-259.9126" z="0.0"></viz:position>
+        <viz:color r="223" g="0" b="158"></viz:color>
+      </node>
+      <node id="Rebel Alliance" label="Rebel Alliance">
+        <attvalues>
+          <attvalue for="d2" value="Rebel"></attvalue>
+          <attvalue for="d1" value="Rebel Alliance"></attvalue>
+          <attvalue for="d0" value="61"></attvalue>
+        </attvalues>
+        <viz:size value="10.839003"></viz:size>
+        <viz:position x="-615.2055" y="227.41699" z="0.0"></viz:position>
+        <viz:color r="61" g="255" b="249"></viz:color>
+      </node>
+      <node id="Hutt Cartel" label="Hutt Cartel">
+        <attvalues>
+          <attvalue for="d2" value="Hutt Cartel"></attvalue>
+          <attvalue for="d1" value="Hutt Cartel"></attvalue>
+          <attvalue for="d0" value="37"></attvalue>
+        </attvalues>
+        <viz:size value="10.294785"></viz:size>
+        <viz:position x="-1129.8086" y="407.19122" z="0.0"></viz:position>
+        <viz:color r="255" g="165" b="46"></viz:color>
+      </node>
+      <node id="New Republic" label="New Republic">
+        <attvalues>
+          <attvalue for="d2" value="New Republic"></attvalue>
+          <attvalue for="d1" value="New Republic"></attvalue>
+          <attvalue for="d0" value="469"></attvalue>
+        </attvalues>
+        <viz:size value="20.090702"></viz:size>
+        <viz:position x="-660.0705" y="-183.0166" z="0.0"></viz:position>
+        <viz:color r="46" g="186" b="255"></viz:color>
+      </node>
+      <node id="Rogue Squadron" label="Rogue Squadron">
+        <attvalues>
+          <attvalue for="d2" value="New Republic"></attvalue>
+          <attvalue for="d1" value="Rogue Squadron"></attvalue>
+          <attvalue for="d0" value="64"></attvalue>
+        </attvalues>
+        <viz:size value="10.907029"></viz:size>
+        <viz:position x="-233.525" y="-894.11615" z="0.0"></viz:position>
+        <viz:color r="46" g="186" b="255"></viz:color>
+      </node>
+      <node id="Yuuzhan Vong" label="Yuuzhan Vong">
+        <attvalues>
+          <attvalue for="d2" value="Yuuzhan Vong"></attvalue>
+          <attvalue for="d1" value="Yuuzhan Vong"></attvalue>
+          <attvalue for="d0" value="26"></attvalue>
+        </attvalues>
+        <viz:size value="10.045351"></viz:size>
+        <viz:position x="-710.0655" y="-935.002" z="0.0"></viz:position>
+        <viz:color r="163" g="54" b="0"></viz:color>
+      </node>
+      <node id="Stormtrooper Corps" label="Stormtrooper Corps">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Empire"></attvalue>
+          <attvalue for="d1" value="Stormtrooper Corps"></attvalue>
+          <attvalue for="d0" value="101"></attvalue>
+        </attvalues>
+        <viz:size value="11.746032"></viz:size>
+        <viz:position x="241.51942" y="316.73822" z="0.0"></viz:position>
+        <viz:color r="223" g="0" b="79"></viz:color>
+      </node>
+      <node id="New Jedi Order" label="New Jedi Order">
+        <attvalues>
+          <attvalue for="d2" value="Jedi"></attvalue>
+          <attvalue for="d1" value="New Jedi Order"></attvalue>
+          <attvalue for="d0" value="60"></attvalue>
+        </attvalues>
+        <viz:size value="10.816326"></viz:size>
+        <viz:position x="-305.68454" y="-1108.3522" z="0.0"></viz:position>
+        <viz:color r="53" g="0" b="223"></viz:color>
+      </node>
+      <node id="Yuuzhan Vong Empire" label="Yuuzhan Vong Empire">
+        <attvalues>
+          <attvalue for="d2" value="Yuuzhan Vong"></attvalue>
+          <attvalue for="d1" value="Yuuzhan Vong Empire"></attvalue>
+          <attvalue for="d0" value="26"></attvalue>
+        </attvalues>
+        <viz:size value="10.045351"></viz:size>
+        <viz:position x="-690.14484" y="-1123.1108" z="0.0"></viz:position>
+        <viz:color r="163" g="54" b="0"></viz:color>
+      </node>
+      <node id="Sith" label="Sith">
+        <attvalues>
+          <attvalue for="d2" value="Sith"></attvalue>
+          <attvalue for="d1" value="Sith"></attvalue>
+          <attvalue for="d0" value="45"></attvalue>
+        </attvalues>
+        <viz:size value="10.476191"></viz:size>
+        <viz:position x="263.0981" y="-653.26886" z="0.0"></viz:position>
+        <viz:color r="235" g="21" b="0"></viz:color>
+      </node>
+      <node id="Coruscant Security Force" label="Coruscant Security Force">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Republic"></attvalue>
+          <attvalue for="d1" value="Coruscant Security Force"></attvalue>
+          <attvalue for="d0" value="29"></attvalue>
+        </attvalues>
+        <viz:size value="10.113379"></viz:size>
+        <viz:position x="-164.7032" y="175.8185" z="0.0"></viz:position>
+        <viz:color r="0" g="105" b="223"></viz:color>
+      </node>
+      <node id="Corellian Security Force" label="Corellian Security Force">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Republic"></attvalue>
+          <attvalue for="d1" value="Corellian Security Force"></attvalue>
+          <attvalue for="d0" value="27"></attvalue>
+        </attvalues>
+        <viz:size value="10.0680275"></viz:size>
+        <viz:position x="275.4379" y="-858.22687" z="0.0"></viz:position>
+        <viz:color r="0" g="105" b="223"></viz:color>
+      </node>
+      <node id="Bounty Hunters' Guild" label="Bounty Hunters' Guild">
+        <attvalues>
+          <attvalue for="d2" value="Bounty Hunter"></attvalue>
+          <attvalue for="d1" value="Bounty Hunters' Guild"></attvalue>
+          <attvalue for="d0" value="26"></attvalue>
+        </attvalues>
+        <viz:size value="10.045351"></viz:size>
+        <viz:position x="91.56757" y="719.4105" z="0.0"></viz:position>
+        <viz:color r="223" g="158" b="0"></viz:color>
+      </node>
+      <node id="Galactic Republic" label="Galactic Republic">
+        <attvalues>
+          <attvalue for="d2" value="Jedi"></attvalue>
+          <attvalue for="d1" value="Galactic Republic"></attvalue>
+          <attvalue for="d0" value="1347"></attvalue>
+        </attvalues>
+        <viz:size value="40.0"></viz:size>
+        <viz:position x="365.1334" y="-131.84407" z="0.0"></viz:position>
+        <viz:color r="53" g="0" b="223"></viz:color>
+      </node>
+      <node id="Imperial Navy" label="Imperial Navy">
+        <attvalues>
+          <attvalue for="d2" value="Galactic Empire"></attvalue>
+          <attvalue for="d1" value="Imperial Navy"></attvalue>
+          <attvalue for="d0" value="175"></attvalue>
+        </attvalues>
+        <viz:size value="13.424036"></viz:size>
+        <viz:position x="-286.3767" y="-444.83932" z="0.0"></viz:position>
+        <viz:color r="223" g="0" b="79"></viz:color>
+      </node>
+      <node id="Alliance To Restore The Republic" label="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d2" value="Rebel"></attvalue>
+          <attvalue for="d1" value="Alliance To Restore The Republic"></attvalue>
+          <attvalue for="d0" value="840"></attvalue>
+        </attvalues>
+        <viz:size value="28.5034"></viz:size>
+        <viz:position x="-37.626926" y="373.28253" z="0.0"></viz:position>
+        <viz:color r="61" g="255" b="249"></viz:color>
+      </node>
+      <node id="One Sith" label="One Sith">
+        <attvalues>
+          <attvalue for="d2" value="Sith"></attvalue>
+          <attvalue for="d1" value="One Sith"></attvalue>
+          <attvalue for="d0" value="32"></attvalue>
+        </attvalues>
+        <viz:size value="10.181406"></viz:size>
+        <viz:position x="-379.2824" y="-1446.5878" z="0.0"></viz:position>
+        <viz:color r="235" g="21" b="0"></viz:color>
+      </node>
+      <node id="Kajidic" label="Kajidic">
+        <attvalues>
+          <attvalue for="d2" value="Criminal"></attvalue>
+          <attvalue for="d1" value="Kajidic"></attvalue>
+          <attvalue for="d0" value="53"></attvalue>
+        </attvalues>
+        <viz:size value="10.657597"></viz:size>
+        <viz:position x="-1326.1204" y="157.63742" z="0.0"></viz:position>
+        <viz:color r="224" g="215" b="0"></viz:color>
+      </node>
+      <node id="Je'Daii Order" label="Je'Daii Order">
+        <attvalues>
+          <attvalue for="d2" value="Je'Daii"></attvalue>
+          <attvalue for="d1" value="Je'Daii Order"></attvalue>
+          <attvalue for="d0" value="33"></attvalue>
+        </attvalues>
+        <viz:size value="10.204082"></viz:size>
+        <viz:position x="770.03705" y="229.89511" z="0.0"></viz:position>
+        <viz:color r="0" g="27" b="223"></viz:color>
+      </node>
+      <node id="New Republic Galactic Federation Of Free Alliances" label="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d2" value="Gffa"></attvalue>
+          <attvalue for="d1" value="New Republic Galactic Federation Of Free Alliances"></attvalue>
+          <attvalue for="d0" value="26"></attvalue>
+        </attvalues>
+        <viz:size value="10.045351"></viz:size>
+        <viz:position x="-1029.478" y="-690.19977" z="0.0"></viz:position>
+        <viz:color r="210" g="0" b="223"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="Royal House Of Naboo" target="Confederacy Of Independent Systems">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal House Of Naboo" target="Galactic Empire">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal House Of Naboo" target="Galactic Senate">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal House Of Naboo" target="Royal Naboo Security Forces">
+        <attvalues>
+          <attvalue for="d3" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal House Of Naboo" target="Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal House Of Naboo" target="Imperial Senate">
+        <attvalues>
+          <attvalue for="d3" value="9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal House Of Naboo" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal House Of Naboo" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal House Of Naboo" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Galactic Empire">
+        <attvalues>
+          <attvalue for="d3" value="73"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Thaereian Military">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Galactic Senate">
+        <attvalues>
+          <attvalue for="d3" value="21"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Republic Navy">
+        <attvalues>
+          <attvalue for="d3" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Royal Naboo Security Forces">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Trade Federation">
+        <attvalues>
+          <attvalue for="d3" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Bright Tree Village">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="45"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Grand Army Of The Republic">
+        <attvalues>
+          <attvalue for="d3" value="30"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Sith Empire">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Black Sun">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Imperial Army">
+        <attvalues>
+          <attvalue for="d3" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Imperial Senate">
+        <attvalues>
+          <attvalue for="d3" value="22"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Mandalorians">
+        <attvalues>
+          <attvalue for="d3" value="14"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Rebel Alliance">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Hutt Cartel">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="16"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Stormtrooper Corps">
+        <attvalues>
+          <attvalue for="d3" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Coruscant Security Force">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Bounty Hunters' Guild">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="371"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="60"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Confederacy Of Independent Systems" target="Kajidic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Thaereian Military">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Galactic Senate">
+        <attvalues>
+          <attvalue for="d3" value="18"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Republic Navy">
+        <attvalues>
+          <attvalue for="d3" value="14"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Royal Naboo Security Forces">
+        <attvalues>
+          <attvalue for="d3" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Trade Federation">
+        <attvalues>
+          <attvalue for="d3" value="16"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Imperial Remnant">
+        <attvalues>
+          <attvalue for="d3" value="44"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="26"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Bright Tree Village">
+        <attvalues>
+          <attvalue for="d3" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Jabba Desilijic Tiure">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Imperial Security Bureau">
+        <attvalues>
+          <attvalue for="d3" value="28"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="21"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Grand Army Of The Republic">
+        <attvalues>
+          <attvalue for="d3" value="26"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Jabba Desilijic Tiure'S Criminal Empire">
+        <attvalues>
+          <attvalue for="d3" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Sith Empire">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Alliance Intelligence">
+        <attvalues>
+          <attvalue for="d3" value="9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Black Sun">
+        <attvalues>
+          <attvalue for="d3" value="28"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Imperial Intelligence">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Imperial Army">
+        <attvalues>
+          <attvalue for="d3" value="48"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Yuuzhan Vong Empire  Warrior Caste">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Imperial Senate">
+        <attvalues>
+          <attvalue for="d3" value="25"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Mandalorians">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Rebel Alliance">
+        <attvalues>
+          <attvalue for="d3" value="20"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Hutt Cartel">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="584"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Rogue Squadron">
+        <attvalues>
+          <attvalue for="d3" value="46"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Yuuzhan Vong">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Stormtrooper Corps">
+        <attvalues>
+          <attvalue for="d3" value="64"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="New Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Yuuzhan Vong Empire">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Sith">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Coruscant Security Force">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Corellian Security Force">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Bounty Hunters' Guild">
+        <attvalues>
+          <attvalue for="d3" value="17"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="242"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="183"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="360"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="Kajidic">
+        <attvalues>
+          <attvalue for="d3" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Empire" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="17"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Thaereian Military" target="Galactic Senate">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Thaereian Military" target="Grand Army Of The Republic">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Thaereian Military" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Republic Navy">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Imperial Military">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Royal Naboo Security Forces">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Trade Federation">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Grand Army Of The Republic">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Sith Empire">
+        <attvalues>
+          <attvalue for="d3" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Black Sun">
+        <attvalues>
+          <attvalue for="d3" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Imperial Intelligence">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Imperial Army">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Imperial Senate">
+        <attvalues>
+          <attvalue for="d3" value="37"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Mandalorians">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="16"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Coruscant Security Force">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="193"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Senate" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="34"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="Exchange">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="Grand Army Of The Republic">
+        <attvalues>
+          <attvalue for="d3" value="19"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="Sith Empire">
+        <attvalues>
+          <attvalue for="d3" value="22"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="Black Sun">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="Czerka Corporation">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="Imperial Army">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="Imperial Senate">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="Stormtrooper Corps">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="Sith">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="95"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="14"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Navy" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Military" target="Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Military" target="Sith Empire">
+        <attvalues>
+          <attvalue for="d3" value="22"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Military" target="Imperial Intelligence">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Military" target="Imperial Army">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Military" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal Naboo Security Forces" target="Trade Federation">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal Naboo Security Forces" target="Imperial Senate">
+        <attvalues>
+          <attvalue for="d3" value="9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal Naboo Security Forces" target="Hutt Cartel">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal Naboo Security Forces" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal Naboo Security Forces" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Royal Naboo Security Forces" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Trade Federation" target="Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Trade Federation" target="Black Sun">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Trade Federation" target="Imperial Senate">
+        <attvalues>
+          <attvalue for="d3" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Trade Federation" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Trade Federation" target="Bounty Hunters' Guild">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Trade Federation" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Trade Federation" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Remnant" target="Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Remnant" target="Imperial Security Bureau">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Remnant" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="42"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Remnant" target="New Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Remnant" target="Yuuzhan Vong Empire">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Remnant" target="Sith">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Remnant" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Remnant" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Remnant" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Remnant" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Federation Of Free Alliances" target="Lost Tribe Of Sith">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Federation Of Free Alliances" target="Hutt Cartel">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Federation Of Free Alliances" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="137"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Federation Of Free Alliances" target="Rogue Squadron">
+        <attvalues>
+          <attvalue for="d3" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Federation Of Free Alliances" target="Yuuzhan Vong">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Federation Of Free Alliances" target="New Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="39"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Federation Of Free Alliances" target="Yuuzhan Vong Empire">
+        <attvalues>
+          <attvalue for="d3" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Federation Of Free Alliances" target="Coruscant Security Force">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Federation Of Free Alliances" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Federation Of Free Alliances" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Federation Of Free Alliances" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Federation Of Free Alliances" target="One Sith">
+        <attvalues>
+          <attvalue for="d3" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Federation Of Free Alliances" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Exchange" target="Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Exchange" target="Sith Empire">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Exchange" target="Imperial Intelligence">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Exchange" target="Czerka Corporation">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Exchange" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="16"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Bright Tree Village" target="Rebel Alliance">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Bright Tree Village" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Bright Tree Village" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Bright Tree Village" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Bright Tree Village" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="49"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Lost Tribe Of Sith" target="Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Lost Tribe Of Sith" target="Sith Empire">
+        <attvalues>
+          <attvalue for="d3" value="69"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Lost Tribe Of Sith" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="21"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Lost Tribe Of Sith" target="New Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="16"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Lost Tribe Of Sith" target="Corellian Security Force">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Lost Tribe Of Sith" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Lost Tribe Of Sith" target="One Sith">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Lost Tribe Of Sith" target="Kajidic">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jabba Desilijic Tiure" target="Jabba Desilijic Tiure'S Criminal Empire">
+        <attvalues>
+          <attvalue for="d3" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jabba Desilijic Tiure" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jabba Desilijic Tiure" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Security Bureau" target="Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Security Bureau" target="Alliance Intelligence">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Security Bureau" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Security Bureau" target="Stormtrooper Corps">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Security Bureau" target="Coruscant Security Force">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Security Bureau" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Security Bureau" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Security Bureau" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="6"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Grand Army Of The Republic">
+        <attvalues>
+          <attvalue for="d3" value="17"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Jabba Desilijic Tiure'S Criminal Empire">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Sith Empire">
+        <attvalues>
+          <attvalue for="d3" value="50"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Pilgrims">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Black Sun">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Imperial Intelligence">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Imperial Army">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Imperial Senate">
+        <attvalues>
+          <attvalue for="d3" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Mandalorians">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="29"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Stormtrooper Corps">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="New Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Yuuzhan Vong Empire">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Sith">
+        <attvalues>
+          <attvalue for="d3" value="21"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Corellian Security Force">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Bounty Hunters' Guild">
+        <attvalues>
+          <attvalue for="d3" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="657"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="49"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="Je'Daii Order">
+        <attvalues>
+          <attvalue for="d3" value="9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jedi Order" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Grand Army Of The Republic" target="Jabba Desilijic Tiure'S Criminal Empire">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Grand Army Of The Republic" target="Black Sun">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Grand Army Of The Republic" target="Imperial Army">
+        <attvalues>
+          <attvalue for="d3" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Grand Army Of The Republic" target="Imperial Senate">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Grand Army Of The Republic" target="Mandalorians">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Grand Army Of The Republic" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Grand Army Of The Republic" target="Stormtrooper Corps">
+        <attvalues>
+          <attvalue for="d3" value="19"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Grand Army Of The Republic" target="Corellian Security Force">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Grand Army Of The Republic" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="208"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Grand Army Of The Republic" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="43"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jabba Desilijic Tiure'S Criminal Empire" target="Black Sun">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jabba Desilijic Tiure'S Criminal Empire" target="Rebel Alliance">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jabba Desilijic Tiure'S Criminal Empire" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="15"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jabba Desilijic Tiure'S Criminal Empire" target="Coruscant Security Force">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jabba Desilijic Tiure'S Criminal Empire" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jabba Desilijic Tiure'S Criminal Empire" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jabba Desilijic Tiure'S Criminal Empire" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="14"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Jabba Desilijic Tiure'S Criminal Empire" target="Kajidic">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Republic Army">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Black Sun">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Imperial Intelligence">
+        <attvalues>
+          <attvalue for="d3" value="24"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Czerka Corporation">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Imperial Army">
+        <attvalues>
+          <attvalue for="d3" value="29"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Mandalorians">
+        <attvalues>
+          <attvalue for="d3" value="30"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Hutt Cartel">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="22"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Stormtrooper Corps">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="New Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Yuuzhan Vong Empire">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Sith">
+        <attvalues>
+          <attvalue for="d3" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Corellian Security Force">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="291"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="One Sith">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith Empire" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Pilgrims" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Army" target="Imperial Army">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Republic Army" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Alliance Intelligence" target="Rebel Alliance">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Alliance Intelligence" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="13"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Alliance Intelligence" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Alliance Intelligence" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Black Sun" target="Imperial Senate">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Black Sun" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="31"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Black Sun" target="Yuuzhan Vong Empire">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Black Sun" target="Coruscant Security Force">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Black Sun" target="Bounty Hunters' Guild">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Black Sun" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="24"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Black Sun" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Black Sun" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="12"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Black Sun" target="Kajidic">
+        <attvalues>
+          <attvalue for="d3" value="15"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Black Sun" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Intelligence" target="Imperial Army">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Intelligence" target="Rebel Alliance">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Intelligence" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Intelligence" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Czerka Corporation" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="10"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Czerka Corporation" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Army" target="Yuuzhan Vong Empire  Warrior Caste">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Army" target="Imperial Senate">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Army" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Army" target="Stormtrooper Corps">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Army" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="30"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Army" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Army" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="7"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Army" target="One Sith">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire  Warrior Caste" target="Mandalorians">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire  Warrior Caste" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="26"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire  Warrior Caste" target="Yuuzhan Vong">
+        <attvalues>
+          <attvalue for="d3" value="14"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire  Warrior Caste" target="New Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire  Warrior Caste" target="Yuuzhan Vong Empire">
+        <attvalues>
+          <attvalue for="d3" value="15"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire  Warrior Caste" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Senate" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="13"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Senate" target="New Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Senate" target="Coruscant Security Force">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Senate" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="87"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Senate" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Senate" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="25"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mandalorians" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="31"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mandalorians" target="Rogue Squadron">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mandalorians" target="New Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mandalorians" target="Yuuzhan Vong Empire">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mandalorians" target="Coruscant Security Force">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mandalorians" target="Bounty Hunters' Guild">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mandalorians" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="28"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mandalorians" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Mandalorians" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Rebel Alliance" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="16"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Rebel Alliance" target="Stormtrooper Corps">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Rebel Alliance" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Rebel Alliance" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="40"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Rebel Alliance" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Hutt Cartel" target="New Republic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Hutt Cartel" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Hutt Cartel" target="Kajidic">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="Rogue Squadron">
+        <attvalues>
+          <attvalue for="d3" value="209"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="Yuuzhan Vong">
+        <attvalues>
+          <attvalue for="d3" value="40"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="Stormtrooper Corps">
+        <attvalues>
+          <attvalue for="d3" value="25"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="New Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="104"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="Yuuzhan Vong Empire">
+        <attvalues>
+          <attvalue for="d3" value="117"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="Sith">
+        <attvalues>
+          <attvalue for="d3" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="Coruscant Security Force">
+        <attvalues>
+          <attvalue for="d3" value="13"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="Corellian Security Force">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="Bounty Hunters' Guild">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="137"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="55"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="410"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="One Sith">
+        <attvalues>
+          <attvalue for="d3" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="Kajidic">
+        <attvalues>
+          <attvalue for="d3" value="13"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Republic" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="137"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Rogue Squadron" target="Yuuzhan Vong">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Rogue Squadron" target="New Jedi Order">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Rogue Squadron" target="Sith">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Rogue Squadron" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Rogue Squadron" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Rogue Squadron" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="22"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Rogue Squadron" target="One Sith">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong" target="Yuuzhan Vong Empire">
+        <attvalues>
+          <attvalue for="d3" value="61"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stormtrooper Corps" target="Bounty Hunters' Guild">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stormtrooper Corps" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="24"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stormtrooper Corps" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="11"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Stormtrooper Corps" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="25"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Jedi Order" target="Yuuzhan Vong Empire">
+        <attvalues>
+          <attvalue for="d3" value="9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Jedi Order" target="Coruscant Security Force">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Jedi Order" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="15"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Jedi Order" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Jedi Order" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Jedi Order" target="One Sith">
+        <attvalues>
+          <attvalue for="d3" value="34"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Jedi Order" target="Kajidic">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="New Jedi Order" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="9"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire" target="Coruscant Security Force">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire" target="Corellian Security Force">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire" target="One Sith">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire" target="Kajidic">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Yuuzhan Vong Empire" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Sith" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="39"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Coruscant Security Force" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="5"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Coruscant Security Force" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Corellian Security Force" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Corellian Security Force" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Corellian Security Force" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Bounty Hunters' Guild" target="Galactic Republic">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Bounty Hunters' Guild" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Republic" target="Imperial Navy">
+        <attvalues>
+          <attvalue for="d3" value="13"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Republic" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="301"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Republic" target="One Sith">
+        <attvalues>
+          <attvalue for="d3" value="17"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Republic" target="Kajidic">
+        <attvalues>
+          <attvalue for="d3" value="3"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Republic" target="Je'Daii Order">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Galactic Republic" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="21"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Navy" target="Alliance To Restore The Republic">
+        <attvalues>
+          <attvalue for="d3" value="24"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Navy" target="One Sith">
+        <attvalues>
+          <attvalue for="d3" value="13"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Navy" target="Kajidic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Imperial Navy" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Alliance To Restore The Republic" target="One Sith">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Alliance To Restore The Republic" target="Kajidic">
+        <attvalues>
+          <attvalue for="d3" value="8"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="Alliance To Restore The Republic" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="4"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="One Sith" target="Kajidic">
+        <attvalues>
+          <attvalue for="d3" value="1"></attvalue>
+        </attvalues>
+      </edge>
+      <edge source="One Sith" target="New Republic Galactic Federation Of Free Alliances">
+        <attvalues>
+          <attvalue for="d3" value="2"></attvalue>
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

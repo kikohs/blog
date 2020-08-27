@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Genres VS Years for the Montreux Jazz</title>
+        <meta charset="utf-8" />
+
+        <!-- <link rel="stylesheet" href="media/reset.css" type="text/css"> -->
+
+    </head>
+
+    <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
+
+    <body style=" width:100%; height:100%;">
+
+        <script type="text/javascript">
+
+            var data, m, n;
+
+            $.ajax({
+                dataType: "json",
+                url: "genres-vs-years.json",
+                async: false,
+                success: function(d) {
+                    data = d['data'];
+                    m = d['m'];
+                    n = d['n'];
+                }
+            });
+
+            var stack = d3.layout.stack().offset("wiggle");
+
+            var layer0 = stack(data);
+
+            var width = $(window).width(),
+                height = $(window).height();
+
+            var x = d3.scale.linear()
+                .domain([0, m - 1])
+                .range([0, width]);
+
+            var y = d3.scale.linear()
+                .domain([0, d3.max(layer0, function(layer) { return d3.max(layer, function(d) { return d.y0 + d.y; }); })])
+                .range([0, height]);
+
+            var color = d3.scale.category20b();
+            var area = d3.svg.area()
+                .interpolate("cardinal")
+                .x(function(d) { return x(d.x); })
+                .y0(function(d) { return y(d.y0); })
+                .y1(function(d) { return y(d.y0 + d.y); });
+
+
+            var svg = d3.select("body")
+                .append("svg")
+                .attr("width", width)
+                .attr("height", height);
+
+            var tooltip = d3.select("body")
+                .append("div")
+                .style("position", "absolute")
+                .style("z-index", "20")
+                .style("visibility", "hidden")
+                .style("top", "30px")
+                .style("left", "30px");
+
+            svg.selectAll("path")
+                .data(layer0)
+                .enter().append("path")
+                .attr("d", area)
+                .attr("class", "layer")
+                .style("fill", function() { return color(Math.random()); });
+
+
+            svg.selectAll(".layer")
+                .attr("opacity", 1)
+                .on("mouseover", function(d, i) {
+                        svg.selectAll(".layer").transition()
+                        .duration(250)
+                        .attr("opacity", function(d, j) {
+                            return j != i ? 0.2 : 1;
+                    })
+                })
+                .on("mousemove", function(d, i) {
+                    var mousex = d3.mouse(this);
+                    var posx = x.invert(mousex[0]);
+                    var elem = d[parseInt(posx)];
+
+                    d3.select(this)
+                        .classed("hover", true)
+                        .attr("stroke-width", "0.5px"),
+                        tooltip.html( "<p> Genre: " + elem.genre + " <br/> Year: " + elem.year + " <br/> Number of songs: " + elem.y + "</p>" ).style("visibility", "visible");
+
+                })
+                .on("mouseout", function(d, i) {
+                    svg.selectAll(".layer")
+                        .transition()
+                        .duration(250)
+                        .attr("opacity", "1");
+                    d3.select(this)
+                        .classed("hover", false)
+                        .attr("stroke-width", "0px"), tooltip.style("visibility", "hidden");
+                })
+
+        </script>
+    </body>
+</html>

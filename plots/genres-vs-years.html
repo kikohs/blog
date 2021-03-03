@@ -11,7 +11,7 @@
     <script type="text/javascript" src="https://d3js.org/d3.v3.min.js"></script>
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
 
-    <body style=" width:100%; height:100%;">
+    <body style="width:100%; height:100%; background:black">
 
         <script type="text/javascript">
 
@@ -62,7 +62,8 @@
                 .style("z-index", "20")
                 .style("visibility", "hidden")
                 .style("top", "30px")
-                .style("left", "30px");
+                .style("left", "30px")
+                .style("color", 'white');
 
             svg.selectAll("path")
                 .data(layer0)
